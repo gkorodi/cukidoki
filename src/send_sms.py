@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
 # Your Account SID from twilio.com/console
-account_sid = "ACb776df93301cc3fca8b8462784145adb"
+account_sid = "THIS SHOULD NOT HAVE BEEN PUBLISHED"
 # Your Auth Token from twilio.com/console
 auth_token  = "your_auth_token"
 
